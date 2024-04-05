@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/SatyakiB7076/TextUtils-React/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner-min.png)
-<h1 align="center">Hi 👋, I'm Satyaki Bhattacharjee</h1>
+<img src="https://github.com/SatyakiB7076/TextUtils-React/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner-min.png" width="980" height="420">
+<h1 align="center">Hi there 👋, I'm Tony Stark ! but sometimes people call me Satyaki...</h1>
 <h3 align="center">A dedicated 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 2.5+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.</h3>
 <image align="right" alt="coding.."  width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyakib7076&label=Profile%20views&color=0e75b6&style=flat" alt="satyakib7076" /> </p>
