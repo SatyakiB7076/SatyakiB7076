@@ -4,7 +4,7 @@
 <image align="right" alt="coding.."  width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyakib7076&label=Profile%20views&color=0e75b6&style=flat" alt="satyakib7076" /> </p>
 
-- 🔭 I’m currently working on **Contact Manager App-MERN stack**
+- 🔭 I’m currently working on **fullstack Social media web application in MERN and learning DSA**
 
 - 🌱 I’m currently learning **Redux and Material UI**
 
