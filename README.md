@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyakib7076&show_icons=true&locale=en" alt="satyakib7076" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyakib7076&" alt="satyakib7076" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=satyakib7076&theme=github_dark" alt="satyakib7076" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyakib7076&theme=2077" alt="satyakib7076" /></p>
