@@ -1,18 +1,18 @@
 <img src="https://github.com/SatyakiB7076/TextUtils-React/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner-min.jpg" width="980" height="420">
 <h1 align="center">Hi there 👋, I'm Tony Stark ! but sometimes people call me Satyaki...</h1>
-<h3 align="center">A dedicated 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 3+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.</h3>
+<h3 align="center">A dedicated Frontend 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 3.9+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.</h3>
 <image align="right" alt="coding.."  width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyakib7076&label=Profile%20views&color=0e75b6&style=flat" alt="satyakib7076" /> </p>
 
-- 🔭 I’m currently working on **fullstack Realtime Banking web application in Next.js**
+- 🔭 I’m currently working on **Realtime Banking web application in Next.js**
 
-- 🌱 I’m currently learning **Backend using Next.js and UI design on Figma**
+- 🌱 I’m currently learning **Backend using Express.js and UI design on Figma**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **React.js, Next.js, Express.js, Linux, MongoDB, Website design**
+- 💬 Ask me about **React.js, Next.js, Express.js, Linux, PostgreSQL, Website design**
 
 - 📫 How to reach me **satyaki.bhattacharjee7076@gmail.com**
 
