@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently working on **Realtime Banking web application in Next.js**
 
-- 🌱 I’m currently learning **Backend using Express.js and UI design on Figma**
+- 🌱 I’m currently learning **Backend using Express.js and UI component designs on using Material UI library**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **React.js, Next.js, Express.js, Linux, PostgreSQL, Website design**
+- 💬 Let's talk about **React.js, Next.js, CSS stylings, Linux, PostgreSQL, Website design**
 
 - 📫 How to reach me **satyaki.bhattacharjee7076@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13Pk_VRPqR2xFfOaZnpjcUrnmOJMlD4li?usp=drive_link](https://drive.google.com/drive/folders/13Pk_VRPqR2xFfOaZnpjcUrnmOJMlD4li?usp=drive_link)
 
-- ⚡ Fun fact **I still believe RCB will win someday :(**
+- ⚡ Fun fact **I used to be a Civil Engineer ;p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
